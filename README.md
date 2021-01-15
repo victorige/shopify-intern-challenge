@@ -8,4 +8,4 @@ npm run dev
 docker run -tdi -p 3000:3000 victorige/shopify-intern-challenge
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser.# shopify-intern-challenge
+Open [http://localhost:3000](http://localhost:3000) with your browser.
